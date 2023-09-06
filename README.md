@@ -1,5 +1,6 @@
 # Metode-de-Detectare-a-Starilor-de-Entanglement-Folosind-Qiskit
 https://github.com/Vlad-Morariu/Metode-de-Detectare-a-Starilor-de-Entanglement-Folosind-Qiskit.git  
+https://gitlab.upt.ro/vlad.morariu/metode-de-detectare-a-starilor-de-entanglement-folosind-qiskit.git  
 
 Un fisier ce contine programe discutate in lucrarea de licenta, si anume stari de entanglement, detectia starilor si o parte de algoritmi
 
